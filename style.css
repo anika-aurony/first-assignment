@@ -1,0 +1,96 @@
+boby{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+.orange-color{
+    color: orange;
+}
+.first-part{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 1% 4%;
+    border-radius: 5%;
+
+}
+.distance{
+    padding-top: 5%;
+}
+.border-color{
+    border-left: 5px solid rgb(233, 94, 94);
+   
+}
+h3{
+    font-size: 40px;
+}
+h4{
+    font-size: 35px;
+}
+.second-part{
+    display: flex;
+}
+.one-third{
+    width: 20%;
+    padding: 5%;
+    margin: auto;
+    border-radius: 10%;
+}
+.one-third img{
+    width: 80%;
+}
+.bg-color-1{
+    background-color: paleturquoise;
+}
+.bg-color-2{
+    background-color: rgb(215, 176, 230);
+}
+.bg-color-3{
+    background-color: rosybrown;
+}
+.third-part{
+    display: flex;
+    
+}
+.half-width-2{
+    width: 50%;
+    padding: 5%;
+    
+}
+.half-width-2 img{
+    width: 100%;
+}
+.arranging{
+    padding-left: 15%;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.link-button-2{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 1% 4%;
+    border-radius: 15%;
+}
+.fourth-part{
+    display: flex;
+
+}
+#red-color{
+    color: red;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+}
